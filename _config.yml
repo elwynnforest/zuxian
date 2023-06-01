@@ -5,3 +5,6 @@ plugins:
 
 title: 祖先的故事
 description: 家族的跌宕起伏，历史的大江大海
+
+github:
+  is_project_page: false
