@@ -2,6 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
 - jekyll-remote-theme
+- jekyll-spaceship
 
 title: 祖先的故事
 description: 家族的跌宕起伏，历史的大江大海
