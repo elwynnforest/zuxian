@@ -6,7 +6,7 @@
 
 ## 家谱
 
-```mermaid
+```mermaid!
 flowchart LR
 %% Generation 1 %%
 F1-1(陈焕章) --> G1(Gen 1)
